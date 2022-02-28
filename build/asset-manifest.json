@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/todolistnew.git/static/css/main.234d9e9a.css",
-    "main.js": "/todolistnew.git/static/js/main.b306f991.js",
-    "static/js/787.97a945da.chunk.js": "/todolistnew.git/static/js/787.97a945da.chunk.js",
-    "static/media/logo.svg": "/todolistnew.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/todolistnew.git/index.html",
-    "main.234d9e9a.css.map": "/todolistnew.git/static/css/main.234d9e9a.css.map",
-    "main.b306f991.js.map": "/todolistnew.git/static/js/main.b306f991.js.map",
-    "787.97a945da.chunk.js.map": "/todolistnew.git/static/js/787.97a945da.chunk.js.map"
+    "main.css": "/todolistnew/static/css/main.234d9e9a.css",
+    "main.js": "/todolistnew/static/js/main.2206b575.js",
+    "static/js/787.97a945da.chunk.js": "/todolistnew/static/js/787.97a945da.chunk.js",
+    "static/media/logo.svg": "/todolistnew/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/todolistnew/index.html",
+    "main.234d9e9a.css.map": "/todolistnew/static/css/main.234d9e9a.css.map",
+    "main.2206b575.js.map": "/todolistnew/static/js/main.2206b575.js.map",
+    "787.97a945da.chunk.js.map": "/todolistnew/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.234d9e9a.css",
-    "static/js/main.b306f991.js"
+    "static/js/main.2206b575.js"
   ]
 }
